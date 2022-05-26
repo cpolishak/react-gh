@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh/static/css/main.5cd486e5.css",
+    "main.js": "/react-gh/static/js/main.cb2f56b2.js",
+    "static/media/bicycleW.png": "/react-gh/static/media/bicycleW.ef0694fa3d524f9eecc0.png",
+    "static/media/zigzag.png": "/react-gh/static/media/zigzag.82e9e8d46ef24276f24a.png",
+    "static/media/fc02w.png": "/react-gh/static/media/fc02w.1bebc293a333ebc0ff98.png",
+    "index.html": "/react-gh/index.html",
+    "main.5cd486e5.css.map": "/react-gh/static/css/main.5cd486e5.css.map",
+    "main.cb2f56b2.js.map": "/react-gh/static/js/main.cb2f56b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd486e5.css",
+    "static/js/main.cb2f56b2.js"
+  ]
+}
